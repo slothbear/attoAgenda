@@ -4,7 +4,11 @@ title: attoAgenda | Toasmasters meeting agenda
 
 # welcome
 
-attoAgenda displays your next club agenda in a clean, friendly format.
+attoAgenda displays your next Toastmasters™ club agenda in a clean format,
+perfect for mobile viewing. Each time you open the app, the agenda is
+automatically refreshed so you're always up-to-date. attoAgenda is perfect
+for a club officer or meeting Toastmaster who wants an easy way to see the club agenda, the
+members assigned to each role, and which roles still need to be filled.
 
 ## support
 
