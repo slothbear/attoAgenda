@@ -35,6 +35,12 @@ Time to get them filled!
 attoAgenda displays the "next" meeting, until 11:59pm of the meeting date.
 After midnight of the meeting's date, the next meeting will be displayed.
 
-### How do I see more than one agenda/just the speech slots/more?
+### How do I see more than one agenda/just the speech slots/more than one club?
 Those are great suggestions for future versions. Please contact
 [attoAgenda support](mailto:attoAgenda@gmail.com) with all your great ideas.
+
+### How do I know the agenda has been refreshed?
+Whenever you activate the app (or change Settings), the agenda is automatically
+refreshed. While the update is in progress, the network activity indicator
+in the status bar (at the top) will spin. When the indicator disappears, the
+update is complete.
